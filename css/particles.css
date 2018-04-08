@@ -1,7 +1,4 @@
 #particles-js canvas{
     position: absolute;
-    width: 50%;
-    height: 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    z-index: -1;
   }
